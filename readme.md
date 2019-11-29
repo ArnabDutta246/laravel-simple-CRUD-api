@@ -8,6 +8,7 @@ Using Laravel Here I build a simple api where I use some laravel features like:
 - **Resource**.
 - **api.php** in routers.
 - Faker.
+- Factory
 - Databse Seeder.
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
