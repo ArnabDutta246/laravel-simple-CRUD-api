@@ -19,4 +19,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - 3.Run composer install
 - 4 Run php artisan key:generate
 - 5.Run table migration php artisan migrate
-- 6. Seed the database php artisan db:seed
+- 6.Seed the database php artisan db:seed
